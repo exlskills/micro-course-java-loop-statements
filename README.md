@@ -1,6 +1,6 @@
-# EXLskills Java Basics Course
+# EXLskills Java Loop Statements Micro Course
 
-This is the EXLskills free and open-source Java Basics Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of essential coding proficiency.
+This is the EXLskills free and open-source Java Loop Statements Micro Course. It guides learners via explanation, demonstration, and thorough practice, from no more than a basic understanding of Java, to a moderate level of understanding regarding Java loop statements.
 
 ## About EXLskills
 
